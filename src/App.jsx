@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom'
 
 const App = () => {
 
-const [color] = useState("#f8cccc")
+const [color] = useState("#e4ccaa")
 document.body.style.backgroundColor = color
 
 return (
